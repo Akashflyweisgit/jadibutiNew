@@ -1,0 +1,28 @@
+/** @format */
+
+.category {
+  margin-top: 50px;
+  margin-left: 300px;
+  width: 950px;
+  height: auto;
+}
+
+.category-card {
+  background-color: rgb(248, 244, 244);
+  box-shadow: 5px 10px #888888;
+}
+
+.category-btn {
+  margin-left: 5px !important;
+}
+
+.select-category {
+  margin-left: 16px;
+  width: 740px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.heading-category {
+  margin-left: 250px;
+}
